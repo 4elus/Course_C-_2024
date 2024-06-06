@@ -1,0 +1,4 @@
+﻿  ConsoleApplication3.cpp
+E:\Unity Урок 2\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(21,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+E:\Unity Урок 2\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(39,26): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+  ConsoleApplication3.vcxproj -> E:\Unity Урок 2\ConsoleApplication3\x64\Debug\ConsoleApplication3.exe
